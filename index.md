@@ -23,10 +23,11 @@ sections:
           description: Feedback from stakeholders
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Green Economy Agreement
+      subtitle: Introduction
+      description: Singapore and Australia are looking to further accelerate both
+        countries’ transition towards a green and sustainable future
+      button: SUMMARY
       url: /faq/
   - resources:
       title: Media
