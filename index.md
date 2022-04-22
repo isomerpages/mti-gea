@@ -30,9 +30,4 @@ sections:
         countries’ transition towards a green and sustainable future
       button: SUMMARY
       url: /summary
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
-
