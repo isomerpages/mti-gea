@@ -9,25 +9,29 @@ notification: ""
 sections:
   - hero:
       title: Green Economy Agreement (GEA)
-      subtitle: Hero subtitle
+      subtitle: A world-first agreement that combines trade, economic, and
+        environmental objectives.
       background: /images/hero-banner.png
-      button: Contact Us
-      url: https://mti-gea-staging.netlify.app/feedback
       key_highlights:
-        - title: Summary
+        - title: About the GEA
           description: What will be in the GEA?
           url: https://mti-gea-staging.netlify.app/summary
         - title: Benefits
           description: What can be expected?
           url: https://mti-gea-staging.netlify.app/benefits
-        - title: Feedback
+        - title: Industry Consultation
           description: Feedback from stakeholders
-          url: https://mti-gea-staging.netlify.app/feedback
+          url: https://mti-gea-staging.netlify.app/industryconsultation
   - infobar:
       title: Green Economy Agreement
       subtitle: Introduction
-      description: Singapore and Australia are looking to further accelerate both
-        countries’ transition towards a green and sustainable future
-      button: SUMMARY
-      url: /summary
+      description: The Green Economy Agreement accelerates our transition towards a
+        green and sustainable future while supporting economic growth and jobs.
+      button: About the GEA
+      url: /aboutthegea
+  - infobar:
+      title: Resources
+      description: Looking for additional information on the GEA?
+      button: Learn More
+      url: /resource
 ---
