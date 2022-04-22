@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Green Economy Agreement
+description: Singapore and Australia are looking to further accelerate both
+  countries’ transition towards a green and sustainable future
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -34,3 +35,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
