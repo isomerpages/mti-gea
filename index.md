@@ -28,7 +28,7 @@ sections:
       description: Singapore and Australia are looking to further accelerate both
         countries’ transition towards a green and sustainable future
       button: SUMMARY
-      url: /faq/
+      url: /summary
   - resources:
       title: Media
       subtitle: Learn more
