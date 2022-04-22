@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Benefits of GEA
     url: /benefits
+  - title: Contact Us
+    url: /contact-us/
