@@ -11,7 +11,7 @@ sections:
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
-      url: /contact-us/
+      url: /feedback
       key_highlights:
         - title: Summary
           description: What will be in the GEA?
