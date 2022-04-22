@@ -6,3 +6,5 @@ links:
     url: /example-page/
   - title: Resources
     resource_room: true
+  - title: Benefits of GEA
+    url: /benefits
