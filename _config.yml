@@ -2,13 +2,13 @@ title: Green Economy Agreement
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#4e944f"
+  secondary-color: "#83bd75"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#b4e197"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#e9efc0"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
