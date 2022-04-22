@@ -11,17 +11,17 @@ sections:
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
-      url: /feedback
+      url: https://mti-gea-staging.netlify.app/feedback
       key_highlights:
         - title: Summary
           description: What will be in the GEA?
-          url: /summary
+          url: https://mti-gea-staging.netlify.app/summary
         - title: Benefits
           description: What can be expected?
-          url: /benefits
+          url: https://mti-gea-staging.netlify.app/benefits
         - title: Feedback
           description: Feedback from stakeholders
-          url: /feedback
+          url: https://mti-gea-staging.netlify.app/feedback
   - infobar:
       title: Green Economy Agreement
       subtitle: Introduction
