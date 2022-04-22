@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: Summary
           description: What will be in the GEA?
-          url: https://google.com
+          url: /summary
         - title: Benefits
           description: What can be expected?
-          url: https://gmail.com
+          url: /benefits
         - title: Feedback
           description: Feedback from stakeholders
-          url: /privacy/
+          url: /feedback
   - infobar:
       title: Green Economy Agreement
       subtitle: Introduction
