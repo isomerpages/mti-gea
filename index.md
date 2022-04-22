@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: About the GEA
           description: What will be in the GEA?
-          url: https://mti-gea-staging.netlify.app/summary
+          url: https://mti-gea-staging.netlify.app/aboutthegea
         - title: Benefits
           description: What can be expected?
           url: https://mti-gea-staging.netlify.app/benefits
