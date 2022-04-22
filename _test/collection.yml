@@ -2,5 +2,4 @@ collections:
   test:
     output: true
     order:
-      - Summary.md
       - Benefits of GEA.md
