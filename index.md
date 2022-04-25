@@ -33,7 +33,7 @@ sections:
       title: Benefits
       description: Common rules and standards; interoperable policy frameworks;
         catalysts for technology development and projects
-      button: Button Text
+      button: Learn More
       url: /benefits
   - infobar:
       title: Resources
