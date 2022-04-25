@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 #### **Agreement - Terms**
 
-All access of any area of www.gea.gov.sg ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
+All access of any area of [www.gea.gov.sg](http://www.gea.gov.sg) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
 
 In these Terms, the words "we", "our" and "us" refers to the Government of Singapore.
 
