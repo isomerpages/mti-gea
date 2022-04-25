@@ -33,5 +33,5 @@ sections:
       title: Resources
       description: Looking for additional information on the GEA?
       button: Learn More
-      url: /resource
+      url: /resources
 ---
