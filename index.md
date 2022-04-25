@@ -30,6 +30,12 @@ sections:
       button: About the GEA
       url: /aboutthegea
   - infobar:
+      title: Benefits
+      description: Common rules and standards; interoperable policy frameworks;
+        catalysts for technology development and projects
+      button: Button Text
+      url: /benefits
+  - infobar:
       title: Resources
       description: Looking for additional information on the GEA?
       button: Learn More
