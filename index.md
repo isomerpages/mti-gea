@@ -32,7 +32,7 @@ sections:
   - infobar:
       title: Benefits
       description: Common rules and standards; interoperable policy frameworks;
-        catalysts for technology development and projects
+        catalysts for technology development and projects.
       button: Learn More
       url: /benefits
   - infobar:
