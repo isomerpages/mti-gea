@@ -11,7 +11,7 @@ sections:
       title: Green Economy Agreement (GEA)
       subtitle: A world-first agreement that combines trade, economic, and
         environmental objectives.
-      background: /images/hero-banner.png
+      background: /images/STB_47454_AnnualPhotoshoot_Gardens_V1.jpg
       key_highlights:
         - title: About the GEA
           description: What will be in the GEA?
