@@ -9,4 +9,4 @@ For inputs pertaining to green goods, we would like to request companies to resp
 
 In particular, we would be interested to hear from you regarding your businesses’ interests in the green economy and how a GEA could better facilitate green trade and growth. 
 
-The closing date for submissions in the first tranche of feedback is 30 April 2022, and thereafter on a continual basis.
+The closing date for submissions in the first tranche of feedback is 30 May 2022, and thereafter on a continual basis.
