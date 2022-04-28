@@ -3,7 +3,7 @@ layout: homepage
 title: Green Economy Agreement
 description: Singapore and Australia are looking to further accelerate both
   countries’ transition towards a green and sustainable future
-image: /images/gea2.jpg
+image: /images/gea2.png
 permalink: /
 notification: ""
 sections:
