@@ -31,7 +31,7 @@ sections:
       url: /aboutthegea
   - infobar:
       title: Benefits
-      description: Common rules and standards; interoperable policy frameworks;
+      description: Common rules and standards; interoperable policy frameworks; and
         catalysts for technology development and projects.
       button: Learn More
       url: /benefits
