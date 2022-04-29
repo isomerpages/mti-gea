@@ -4,7 +4,10 @@ links:
     url: /aboutthegea
   - title: Benefits of GEA
     url: /benefits
-  - title: Industry Consultation
-    url: /industryconsultation
+  - title: Industry Consultations
+    url: /permalink
+    sublinks:
+      - title: Australia
+        url: /industryconsultation
   - title: Resources
     resource_room: true
