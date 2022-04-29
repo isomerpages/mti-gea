@@ -6,7 +6,6 @@ date: 2021-06-21
 layout: post
 description: ""
 ---
-
 Joint Statement by the Prime Ministers of Singapore and Australia (10 June 2021)
 
 Prime Minister Lee Hsien Loong hosted Prime Minister Scott Morrison on 10 June 2021 in Singapore for the sixth Australia-Singapore Annual Leaders’ Meeting. The Prime Ministers acknowledged the longstanding friendship and deep bilateral collaboration between the two countries, anchored in shared strategic and economic interests.They reaffirmed the Australia-Singapore Comprehensive Strategic Partnership as unique in its ability to be constructive, expansive and forward-looking, and welcomed the progress made since the virtual fifth Annual Leaders’ Meeting in March 2020, in spite of the challenges presented by COVID-19. They also welcomed the entry into force of the Singapore-Australia Digital Economy Agreement in December 2020.
@@ -19,15 +18,15 @@ The Prime Ministers acknowledged the importance of open borders to the post-pand
 
 The Prime Ministers welcomed the following new initiatives which will deepen the Australia-Singapore Comprehensive Strategic Partnership.
 
-			a. Driven by their mutual support for practical action on climate change, and building on progress under the 2020 MOU on low emissions solutions, the Australian and Singaporean governments will join business in a public-private partnership on low emissions maritime and shipping, with a combined initial contribution of up to A$30 million. The initiative will see business and government in Australia and Singapore work together on low emissions fuels and technologies, including clean hydrogen and clean ammonia, to drive down emissions in maritime shipping and port operations.
+a. Driven by their mutual support for practical action on climate change, and building on progress under the 2020 MOU on low emissions solutions, the Australian and Singaporean governments will join business in a public-private partnership on low emissions maritime and shipping, with a combined initial contribution of up to A$30 million. The initiative will see business and government in Australia and Singapore work together on low emissions fuels and technologies, including clean hydrogen and clean ammonia, to drive down emissions in maritime shipping and port operations.
 
-			b. Both sides will start discussions on an Australia-Singapore FinTech Bridge. The FinTech Bridge will enhance cooperation on FinTech policy and regulation and look for opportunities for collaboration on joint innovation projects, as well as facilitate investments and new business opportunities in digital trade and financial services. The FinTech Bridge will build on the strong foundations of the Digital Economy Agreement between the two countries.
+b. Both sides will start discussions on an Australia-Singapore FinTech Bridge. The FinTech Bridge will enhance cooperation on FinTech policy and regulation and look for opportunities for collaboration on joint innovation projects, as well as facilitate investments and new business opportunities in digital trade and financial services. The FinTech Bridge will build on the strong foundations of the Digital Economy Agreement between the two countries.
 
-			c. Both health ministries have signed a new MOU to enhance cooperation on healthcare and health technologies, which will facilitate deeper exchanges of information, knowledge and expertise to support timely and affordable access to medicines and health technologies for Singaporeans and Australians.
+c. Both health ministries have signed a new MOU to enhance cooperation on healthcare and health technologies, which will facilitate deeper exchanges of information, knowledge and expertise to support timely and affordable access to medicines and health technologies for Singaporeans and Australians.
 
-			d. The Australian Federal Police and Singapore’s Home Team Science and Technology Agency have agreed to sign an MOU on operational science and technology cooperation to develop and enhance capabilities for homeland security and law enforcement agencies to prevent crime and maintain law and order.
+d. The Australian Federal Police and Singapore’s Home Team Science and Technology Agency have agreed to sign an MOU on operational science and technology cooperation to develop and enhance capabilities for homeland security and law enforcement agencies to prevent crime and maintain law and order.
 
-			e. Singapore Symphony Orchestra and Melbourne Symphony Orchestra will renew their MOU on cooperation as an important marker that despite the pandemic, our cultural exchanges continue to flourish through innovative and digital ways of working and performing together.
+e. Singapore Symphony Orchestra and Melbourne Symphony Orchestra will renew their MOU on cooperation as an important marker that despite the pandemic, our cultural exchanges continue to flourish through innovative and digital ways of working and performing together.
 
 The Prime Ministers also exchanged views on regional cooperation and international issues. They discussed COVID-19’s impact on communities, health systems, economies and supply chains. They agreed to continue to share best practices in tackling the pandemic, work closely together to keep markets open and supply chains functioning, and support regional efforts for a sustainable and resilient recovery. They reiterated their commitment to the region’s access to safe and effective COVID-19 vaccines, including through the COVID-19 Vaccines Global Access (COVAX) Facility.
 
