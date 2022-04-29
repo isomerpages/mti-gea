@@ -19,7 +19,7 @@ sections:
         - title: Benefits
           description: What can be expected?
           url: https://mti-gea-staging.netlify.app/benefits
-        - title: Industry Consultation
+        - title: Singapore-Australia GEA Consultations
           description: Feedback from stakeholders
           url: https://mti-gea-staging.netlify.app/industryconsultation
   - infobar:
