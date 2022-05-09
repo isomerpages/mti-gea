@@ -1,36 +1,43 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Green Economy Agreement
+description: Singapore and Australia are looking to further accelerate both
+  countries’ transition towards a green and sustainable future
+image: /images/gea2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: Green Economy Agreement
+      subtitle: A world-first agreement that combines trade, economic, and
+        environmental objectives.
+      background: /images/STB_47454_AnnualPhotoshoot_Gardens_V1.jpg
+      key_highlights:
+        - title: About the GEA
+          description: What will be in the GEA?
+          url: https://mti-gea-staging.netlify.app/aboutthegea
+        - title: Benefits
+          description: What can be expected?
+          url: https://mti-gea-staging.netlify.app/benefits
+        - title: Singapore-Australia GEA Consultations
+          description: Feedback from stakeholders
+          url: https://mti-gea-staging.netlify.app/industryconsultation
+  - infobar:
+      title: Green Economy Agreement
+      subtitle: Introduction
+      description: The Green Economy Agreement accelerates our transition towards a
+        green and sustainable future while supporting economic growth and jobs.
+      button: About the GEA
+      url: /aboutthegea
+  - infobar:
+      title: Benefits
+      description: Common rules and standards; interoperable policy frameworks; and
+        catalysts for technology development and projects.
+      button: Learn More
+      url: /benefits
+  - infobar:
+      title: Resources
+      description: Looking for additional information on the GEA?
+      button: Learn More
+      url: /resources
 ---
-
