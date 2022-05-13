@@ -15,13 +15,13 @@ sections:
       key_highlights:
         - title: About the GEA
           description: What will be in the GEA?
-          url: https://mti-gea-staging.netlify.app/aboutthegea
+          url: /aboutthegea
         - title: Benefits
           description: What can be expected?
-          url: https://mti-gea-staging.netlify.app/benefits
+          url: /benefits
         - title: Singapore-Australia GEA Consultations
           description: Feedback from stakeholders
-          url: https://mti-gea-staging.netlify.app/industryconsultation
+          url: /industryconsultation
   - infobar:
       title: Green Economy Agreement
       subtitle: Introduction
