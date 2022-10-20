@@ -14,5 +14,8 @@ links:
     sublinks:
       - title: Media Centre
         url: /resources/media-centre
-  - title: agreements
-    collection: test
+  - title: Agreements
+    url: /permalink
+    sublinks:
+      - title: Australia
+        url: /permalink
