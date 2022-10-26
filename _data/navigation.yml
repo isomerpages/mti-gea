@@ -4,6 +4,11 @@ links:
     url: /aboutthegea
   - title: Benefits of GEA
     url: /benefits
+  - title: Agreements
+    url: /permalink
+    sublinks:
+      - title: Australia
+        url: /SAGEA/
   - title: Industry Consultations
     url: /industryconsultation
     sublinks:
@@ -14,8 +19,3 @@ links:
     sublinks:
       - title: Media Centre
         url: /resources/media-centre
-  - title: Agreements
-    url: /permalink
-    sublinks:
-      - title: Australia
-        url: /SAGEA/
