@@ -49,3 +49,7 @@ Under the GEA, Singapore and Australia also agreed on 17 joint initiatives as pa
 * [Fostering Cooperation on Ecolabelling and Related Sustainability Schemes](https://go.gov.sg/sagea-ecolabelling)
 	
 * [Statistical Measurement of the Green Economy](https://go.gov.sg/sagea-statistical-measurement)
+
+#### Press Releases
+
+* 
