@@ -3,11 +3,12 @@ title: Singapore Australia Green Economy Agreement
 permalink: /SAGEA/
 description: ""
 ---
-
--Placeholder for HD infographic-
+![](/images/Singapore-Australia%20Green%20Economy%20Agreement%20(SAGEA)_v3.jpg)
 	
 # GEA Text
 * [Full text of the Singapore-Australia Green Economy Agreement](https://www.dfat.gov.au/sites/default/files/singapore-australia-gea-official-text-signed.pdf)
+
+![](/images/Singapore-Australia%20Green%20Economy%20Agreement%20Joint%20Initiatives_v3.jpg)
 # Annexes
 * Annex B 1.1
 * Annex B 1.2
