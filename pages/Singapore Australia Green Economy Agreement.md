@@ -7,7 +7,8 @@ description: ""
 	
 #### GEA Text
 
-* [Full text of the Singapore-Australia Green Economy Agreement] (https://www.dfat.gov.au/sites/default/files/singapore-australia-gea-official-text-signed.pdf)
+* [Full text of the SAGEA](https://www.dfat.gov.au/sites/default/files/singapore-australia-gea-official-text-signed.pdf)
+* [List of Environmental Services](https://gov.gov.sg/sagea-environmental-goods-list)
 
 #### 17 Joint Initiatives
 <p align = justify> Under the GEA, Singapore and Australia also agreed on 17 joint initiatives as part of initial efforts to pursue cooperative projects in forward-looking and emerging areas. 
