@@ -14,7 +14,7 @@ description: ""
 ![](/images/Singapore-Australia%20Green%20Economy%20Agreement%20Joint%20Initiatives_v3.jpg)
 
 #### Full text on the Joint Initiatives
-* [https://go.gov.sg/sagea-environmental-goods-list](List of Environmental Goods)
+* [List of Environmental Goods](https://go.gov.sg/sagea-environmental-goods-list)
 * [List of Environmental Services](https://go.gov.sg/sagea-environmental-services-list)
 * [Mechanism to Identify and Address Non-Tariff Barriers](https://go.gov.sg/sagea-non-tariff-barriers-mechanism)
 * [Trade Facilitation - Digital Verification Platform](https://go.gov.sg/sagea-digital-verification-platform)
