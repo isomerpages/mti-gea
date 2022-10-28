@@ -16,6 +16,8 @@ description: ""
 
 #### Text of the Joint Initiatives
 	
+	[yes](www.gea.gov.sg) 
+	
 * [List of Environmental Goods](https://go.gov.sg/sagea-environmental-goods-list)
 	
 * [List of Environmental Services](https://go.gov.sg/sagea-environmental-services-list)
