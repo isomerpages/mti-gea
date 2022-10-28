@@ -14,7 +14,7 @@ description: ""
 
 ![](/images/Singapore-Australia%20Green%20Economy%20Agreement%20Joint%20Initiatives_v3.jpg)
 
-#### Text on the Joint Initiatives
+#### Text of the Joint Initiatives
 	
 * [List of Environmental Goods](https://go.gov.sg/sagea-environmental-goods-list)
 	
