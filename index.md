@@ -19,9 +19,12 @@ sections:
         - title: Benefits
           description: What can be expected?
           url: /benefits
-        - title: Singapore-Australia GEA Consultations
-          description: Feedback from stakeholders
-          url: /industryconsultation
+        - title: current agreements
+          description: What has been signed?
+          url: /SAGEA/
+        - title: ""
+          description: ""
+          url: ""
   - infobar:
       title: Green Economy Agreement
       subtitle: Introduction
