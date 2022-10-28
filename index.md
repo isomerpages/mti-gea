@@ -22,9 +22,6 @@ sections:
         - title: current agreements
           description: What has been signed?
           url: /SAGEA/
-        - title: ""
-          description: ""
-          url: ""
   - infobar:
       title: Green Economy Agreement
       subtitle: Introduction
