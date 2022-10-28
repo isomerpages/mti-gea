@@ -19,8 +19,8 @@ sections:
         - title: Benefits
           description: What can be expected?
           url: /benefits
-        - title: current agreements
-          description: What has been signed?
+        - title: Current Agreements
+          description: What has been signed so far?
           url: /SAGEA/
   - infobar:
       title: Green Economy Agreement
