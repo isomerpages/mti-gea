@@ -45,6 +45,8 @@ Under the GEA, Singapore and Australia also agreed on 17 joint initiatives as pa
 * [Singapore Australia Go-Green Co-Innovation Programme](https://go.gov.sg/sagea-cip)
 	
 * [Austrade-Enterprise Singapore MOU to Support a Green Business Partnership](https://go.gov.sg/sagea-austrade-enterprisesg-mou)
+
+* [MOU Text of Austrade-Enterprise Singapore MOU to Support a Green Business Partnership ](https://go.gov.sg/sagea-esgaustrademou)
 	
 * [Fostering Cooperation on Ecolabelling and Related Sustainability Schemes](https://go.gov.sg/sagea-ecolabelling)
 	
