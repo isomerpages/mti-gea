@@ -3,7 +3,7 @@ title: About the GEA
 permalink: /aboutthegea/
 description: ""
 ---
-Green Economy Agreements see to foster common rules and standards that promote trade and investment in green goods, services and technologies; develop interoperable policy frameworks to support the growth of new green growth sectors and capabilities; and catalyse technology development and cooperative projects in the emerging green economy. 
+Green Economy Agreements seek to foster common rules and standards that promote trade and investment in green goods, services and technologies; develop interoperable policy frameworks to support the growth of new green growth sectors and capabilities; and catalyse technology development and cooperative projects in the emerging green economy. 
 
 A GEA could comprise several modules, which may include:
 
