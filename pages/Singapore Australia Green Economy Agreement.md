@@ -9,7 +9,7 @@ description: ""
 	
 #### GEA Text
 
-* [Full text of the SAGEA](https://www.dfat.gov.au/sites/default/files/singapore-australia-gea-official-text-signed.pdf)
+* [Full text of the SAGEA](https://go.gov.sg/sagea-gea)
 
 
 #### 17 Joint Initiatives
