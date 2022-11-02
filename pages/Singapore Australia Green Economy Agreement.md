@@ -56,4 +56,4 @@ Under the GEA, Singapore and Australia also agreed on 17 joint initiatives as pa
 
 #### Press Releases
 
-* [Singapore and Australia sign Green Economy Agreement, 18 October 2022](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/10/MTI-MSE-Press-release-and-Factsheet-on-the-SAGEA.pdf)
+* [Singapore and Australia sign Green Economy Agreement, 18 October 2022](https://go.gov.sg/sagea-pressrelease)
