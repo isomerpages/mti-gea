@@ -25,8 +25,8 @@ sections:
   - infobar:
       title: Green Economy Agreements
       subtitle: Introduction
-      description: The Green Economy Agreement accelerates our transition towards a
-        green and sustainable future while supporting economic growth and jobs.
+      description: Green Economy Agreements accelerate our transition towards a green
+        and sustainable future while supporting economic growth and jobs.
       button: About the GEA
       url: /aboutthegea
   - infobar:
