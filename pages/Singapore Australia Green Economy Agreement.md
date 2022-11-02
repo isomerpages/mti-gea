@@ -3,6 +3,8 @@ title: Singapore Australia Green Economy Agreement
 permalink: /SAGEA/
 description: ""
 ---
+![](/images/GEA%20banner.jpeg)
+
 ![](/images/Singapore-Australia%20Green%20Economy%20Agreement%20(SAGEA)_v3.jpg)
 	
 #### GEA Text
