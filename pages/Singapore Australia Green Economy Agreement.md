@@ -18,7 +18,7 @@ Under the GEA, Singapore and Australia also agreed on 17 joint initiatives as pa
 
 ![](/images/Singapore-Australia%20Green%20Economy%20Agreement%20Joint%20Initiatives_v3.jpg)
 
-#### Text of the Joint Initiatives
+#### Joint Initiatives
 
 * [List of Environmental Goods](https://go.gov.sg/sagea-environmental-goods-list)
 	
@@ -48,7 +48,7 @@ Under the GEA, Singapore and Australia also agreed on 17 joint initiatives as pa
 	
 * [Austrade-Enterprise Singapore MOU to Support a Green Business Partnership](https://go.gov.sg/sagea-austrade-enterprisesg-mou)
 
-* [MOU Text of Austrade-Enterprise Singapore MOU to Support a Green Business Partnership ](https://go.gov.sg/sagea-esgaustrademou)
+* [Austrade-Enterprise Singapore MOU to Support a Green Business Partnership (Text)](https://go.gov.sg/sagea-esgaustrademou)
 	
 * [Fostering Cooperation on Ecolabelling and Related Sustainability Schemes](https://go.gov.sg/sagea-ecolabelling)
 	
