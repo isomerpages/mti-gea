@@ -19,8 +19,8 @@ sections:
         - title: Benefits
           description: What can be expected?
           url: /benefits
-        - title: Current Agreements
-          description: What has been signed so far?
+        - title: What has been signed so far
+          description: Singapore-Australia GEA
           url: /SAGEA/
   - infobar:
       title: Green Economy Agreements
