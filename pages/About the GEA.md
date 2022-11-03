@@ -9,7 +9,7 @@ A GEA could comprise several modules, which may include:
 
 1. **Green Economy Principles**, which will guide international cooperation in the emerging global economy.
 	
-2. **Trade and Investment**, which will support efforts to reduce tariff and non-tariff barriers with lsits of over 350 and 150 environmental goods and services respectively.
+2. **Trade and Investment**, which will support efforts to reduce tariff and non-tariff barriers with lists of over 350 and 150 environmental goods and services respectively.
 	
 3. **Standards and Conformance**, which will reduce compliance costs for exporters with alignment of standards and technical regulations.
 	
