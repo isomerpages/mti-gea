@@ -7,7 +7,7 @@ description: ""
 
 Green Economy Agreements seek to foster common rules and standards that promote trade and investment in green goods, services and technologies; develop interoperable policy frameworks to support the growth of new green growth sectors and capabilities; and catalyse technology development and cooperative projects in the emerging green economy. 
 
-A G could comprise Government-to-Government commitments and cooperative projects across modules, including:
+A GEA could comprise Government-to-Government commitments and cooperative projects across modules, including:
 
 1. **Green Economy Principles**, which will guide international cooperation in the emerging global economy.
 	
@@ -24,3 +24,7 @@ A G could comprise Government-to-Government commitments and cooperative projects
 7. **Green Skills and Capabilities**, which will prepare a workforce that is skilled and ready for new and emerging green occupations.
 	
 8. **Engagements & Partnerships**, which will catalyse business and technology partnerships to facilitate greater two-way commerce and investment opportunities in green growth sectors.
+
+GEAs are jointly negotiated by the Ministry of Trade and Industry and the Ministry of Sustainability and Environment.
+
+![](/images/MTI-MSE%20logo%202.png)
