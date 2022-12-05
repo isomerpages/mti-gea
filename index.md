@@ -8,25 +8,25 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Green Economy Agreement
+      title: Green Economy Agreements
       subtitle: A world-first agreement that combines trade, economic, and
         environmental objectives.
       background: /images/STB_47454_AnnualPhotoshoot_Gardens_V1.jpg
       key_highlights:
         - title: About the GEA
-          description: What will be in the GEA?
+          description: What is in a GEA?
           url: /aboutthegea
         - title: Benefits
           description: What can be expected?
           url: /benefits
-        - title: Singapore-Australia GEA Consultations
-          description: Feedback from stakeholders
-          url: /industryconsultation
+        - title: What has been signed so far
+          description: Singapore-Australia GEA
+          url: /SAGEA/
   - infobar:
-      title: Green Economy Agreement
+      title: Green Economy Agreements
       subtitle: Introduction
-      description: The Green Economy Agreement accelerates our transition towards a
-        green and sustainable future while supporting economic growth and jobs.
+      description: Green Economy Agreements accelerate our transition towards a green
+        and sustainable future while supporting economic growth and jobs.
       button: About the GEA
       url: /aboutthegea
   - infobar:
@@ -37,7 +37,7 @@ sections:
       url: /benefits
   - infobar:
       title: Resources
-      description: Looking for additional information on the GEA?
+      description: Looking for additional information on GEAs?
       button: Learn More
       url: /resources
 ---
