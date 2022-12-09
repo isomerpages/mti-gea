@@ -3,7 +3,7 @@ title: About the GEA
 permalink: /aboutthegea/
 description: ""
 ---
-![](/images/MTI-MSE%20logo%202.png)
+![](/images/MTI%20PNG.png)
 
 Green Economy Agreements seek to foster common rules and standards that promote trade and investment in green goods, services and technologies; develop interoperable policy frameworks to support the growth of new green growth sectors and capabilities; and catalyse technology development and cooperative projects in the emerging green economy. 
 
@@ -25,6 +25,5 @@ A GEA could comprise Government-to-Government commitments and cooperative projec
 	
 8. **Engagements & Partnerships**, which will catalyse business and technology partnerships to facilitate greater two-way commerce and investment opportunities in green growth sectors.
 
-GEAs are jointly negotiated by the Ministry of Trade and Industry and the Ministry of Sustainability and Environment.
+GEAs are negotiated by the Ministry of Trade and Industry.
 
-![](/images/MTI-MSE%20logo%202.png)
