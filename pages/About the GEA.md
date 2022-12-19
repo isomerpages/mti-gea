@@ -26,4 +26,3 @@ A GEA could comprise Government-to-Government commitments and cooperative projec
 8. **Engagements & Partnerships**, which will catalyse business and technology partnerships to facilitate greater two-way commerce and investment opportunities in green growth sectors.
 
 GEAs are negotiated by the Ministry of Trade and Industry.
-
