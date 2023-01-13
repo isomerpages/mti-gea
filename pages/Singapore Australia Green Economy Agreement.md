@@ -9,7 +9,7 @@ description: ""
 	
 #### GEA Text
 
-* [Full text of the SAGEA](https://go.gov.sg/sagea-gea)
+* [Full text of the SAGEA](https://go.gov.sg/sagea-text-full)
 
 
 #### 17 Joint Initiatives
