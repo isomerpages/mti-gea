@@ -1,5 +1,5 @@
 title: Green Economy Agreement
-url: ""
+url: https://www.gea.gov.sg
 favicon: /images/gea3.ico
 colors:
   primary-color: "#4e944f"
@@ -54,3 +54,8 @@ plugins:
 staging: https://mti-gea-staging.netlify.app
 prod: https://mti-gea-prod.netlify.app
 google_analytics: UA-219618356-2
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
