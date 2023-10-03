@@ -1,6 +1,6 @@
 ---
 title: Singapore Australia Green Economy Agreement
-permalink: /SAGEA/
+permalink: /sagea/
 description: ""
 ---
 ![](/images/GEA%20banner.jpeg)

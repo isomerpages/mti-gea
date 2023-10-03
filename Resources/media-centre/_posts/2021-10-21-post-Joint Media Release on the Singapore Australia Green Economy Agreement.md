@@ -1,6 +1,6 @@
 ---
 title: Joint Media Release on the Singapore Australia Green Economy Agreement
-permalink: /Resources/media-centre/joint-media-release
+permalink: /resources/media-centre/joint-media-release/
 date: 2021-10-21
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: Visit of the Prime Minister of Australia, The Honourable Scott Morrison
   MP, to Singapore
-permalink: /Resources/media-centre/leaders-announcement
+permalink: /resources/media-centre/leaders-announcement/
 date: 2021-06-21
 layout: post
 description: ""

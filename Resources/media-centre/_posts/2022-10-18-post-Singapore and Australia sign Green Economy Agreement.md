@@ -1,6 +1,6 @@
 ---
 title: Singapore and Australia sign Green Economy Agreement
-permalink: /Resources/media-centre/sign-GEA/
+permalink: /resources/media-centre/sign-gea/
 date: 2022-10-18
 layout: post
 description: ""
