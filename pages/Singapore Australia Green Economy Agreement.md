@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/GEA%20banner.jpeg)
 
-![](/images/Singapore-Australia%20Green%20Economy%20Agreement%20(SAGEA)_v3.jpg)
+![](/images/singapore-australia%20green%20economy%20agreement%20(sagea)_v3.jpg)
 	
 #### GEA Text
 
@@ -16,7 +16,7 @@ description: ""
 
 Under the GEA, Singapore and Australia also agreed on 17 joint initiatives as part of initial efforts to pursue cooperative projects in forward-looking and emerging areas. 
 
-![](/images/Singapore-Australia%20Green%20Economy%20Agreement%20Joint%20Initiatives_v3.jpg)
+![](/images/singapore-australia%20green%20economy%20agreement%20joint%20initiatives_v3.jpg)
 
 #### Joint Initiatives
 

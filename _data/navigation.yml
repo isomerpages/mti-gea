@@ -5,10 +5,10 @@ links:
   - title: Benefits of the GEA
     url: /benefits
   - title: Agreements
-    url: /SAGEA/
+    url: sagea
     sublinks:
       - title: Australia
-        url: /SAGEA/
+        url: sagea
   - title: Industry Consultations
     url: /industryconsultation
     sublinks:

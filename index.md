@@ -11,7 +11,7 @@ sections:
       title: Green Economy Agreements
       subtitle: A world-first agreement that combines trade, economic, and
         environmental objectives.
-      background: /images/STB_47454_AnnualPhotoshoot_Gardens_V1.jpg
+      background: /images/stb_47454_annualphotoshoot_gardens_v1.jpg
       key_highlights:
         - title: About the GEA
           description: What is in a GEA?
@@ -21,7 +21,7 @@ sections:
           url: /benefits
         - title: What has been signed so far
           description: Singapore-Australia GEA
-          url: /SAGEA/
+          url: sagea
   - infobar:
       title: Green Economy Agreements
       subtitle: Introduction
