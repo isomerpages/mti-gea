@@ -5,13 +5,14 @@ description: ""
 ---
 ![](/images/GEA%20banner.jpeg)
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Singapore-Australia Green Economy Agreement First Anniversary Video" src="https://www.youtube.com/embed/wpAH8NbGLJI?si=M5wUN8_nQgbdbWZE" height="515" width="845"></iframe>
+
 ![](/images/singapore-australia%20green%20economy%20agreement%20(sagea)_v3.jpg)
 	
 #### GEA Text
 
 * [Full text of the SAGEA](https://go.gov.sg/sagea-text-full)
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Singapore-Australia Green Economy Agreement First Anniversary Video" src="https://www.youtube.com/embed/wpAH8NbGLJI?si=M5wUN8_nQgbdbWZE" height="515" width="845"></iframe>
 
 #### 17 Joint Initiatives
 
