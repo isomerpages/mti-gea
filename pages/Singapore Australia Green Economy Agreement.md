@@ -3,7 +3,7 @@ title: Singapore Australia Green Economy Agreement
 permalink: /sagea/
 description: ""
 ---
-![](/images/GEA%20banner.jpeg)
+![](/images/gea%20banner.jpeg)
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Singapore-Australia Green Economy Agreement First Anniversary Video" src="https://www.youtube.com/embed/wpAH8NbGLJI?si=M5wUN8_nQgbdbWZE" height="515" width="845"></iframe>
 
