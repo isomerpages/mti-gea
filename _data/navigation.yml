@@ -19,3 +19,5 @@ links:
     sublinks:
       - title: Media Centre
         url: /resources/media-centre
+  - title: Resources
+    resource_room: true
