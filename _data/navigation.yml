@@ -15,9 +15,4 @@ links:
       - title: Australia
         url: /industryconsultation
   - title: Resources
-    url: /resources/media-centre
-    sublinks:
-      - title: Media Centre
-        url: /resources/media-centre
-  - title: Resources
     resource_room: true
