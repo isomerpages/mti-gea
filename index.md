@@ -39,5 +39,5 @@ sections:
       title: Resources
       description: Looking for additional information on GEAs?
       button: Learn More
-      url: /resources
+      url: /Resources/media-centre/
 ---
