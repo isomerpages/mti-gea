@@ -51,8 +51,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mti-gea-staging.netlify.app
-prod: https://mti-gea-prod.netlify.app
+staging: https://staging.d9vvgi0h8u7ia.amplifyapp.com/
+prod: https://master.d9vvgi0h8u7ia.amplifyapp.com/
 google_analytics: UA-219618356-2
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg

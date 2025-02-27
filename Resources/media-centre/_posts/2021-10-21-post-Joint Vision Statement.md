@@ -1,6 +1,6 @@
 ---
 title: Joint Vision Statement
-permalink: /resources/media-centre/vision-statement
+permalink: /resources/media-centre/vision-statement/
 date: 2021-10-21
 layout: post
 description: ""
