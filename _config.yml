@@ -56,6 +56,6 @@ prod: https://master.d9vvgi0h8u7ia.amplifyapp.com/
 google_analytics: UA-219618356-2
 facebook-pixel: ""
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
